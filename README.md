@@ -20,16 +20,16 @@ This repository contains **Java basic programs (Day 1)** that focus on:
 
 ---
 
- 1️⃣ | **BasicCalculator.java** | Perform +, -, *, /, % operations |
-| 2️⃣ | **TemperatureConverter.java** | Convert Fahrenheit to Celsius |
-| 3️⃣ | **EvenOddChecker.java** | Check if number is even or odd |
-| 4️⃣ | **CircleCalculator.java** | Find area and circumference of a circle |
-| 5️⃣ | **LargestOfThree.java** | Find largest among three numbers |
-| 6️⃣ | **AverageOfN.java** | Find average of N numbers |
-| 7️⃣ | **AgeCategory.java** | Classify user as Child, Teen, Adult, or Senior |
-| 8️⃣ | **ElectricityBill.java** | Calculate electricity bill based on units |
-| 9️⃣ | **SalarySlip.java** | Generate salary slip using HRA and DA |
-| 🔟 | **TimeConverter.java** | Convert minutes into hours and minutes |
+ 1️⃣ | **BasicCalculator.java** | Perform +, -, *, /, % operations 
+| 2️⃣ | **TemperatureConverter.java** | Convert Fahrenheit to Celsius 
+| 3️⃣ | **EvenOddChecker.java** | Check if number is even or odd 
+| 4️⃣ | **CircleCalculator.java** | Find area and circumference of a circle 
+| 5️⃣ | **LargestOfThree.java** | Find largest among three numbers
+| 6️⃣ | **AverageOfN.java** | Find average of N numbers 
+| 7️⃣ | **AgeCategory.java** | Classify user as Child, Teen, Adult, or Senior 
+| 8️⃣ | **ElectricityBill.java** | Calculate electricity bill based on units 
+| 9️⃣ | **SalarySlip.java** | Generate salary slip using HRA and DA 
+| 🔟 | **TimeConverter.java** | Convert minutes into hours and minutes 
 
 ---
 
